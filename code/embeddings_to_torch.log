@@ -1,0 +1,14 @@
+[2019-11-20 20:49:12,771 INFO] From: IntrinsicTasks/Task1_Seq/Task1_Seq.vocab.pt
+[2019-11-20 20:49:12,771 INFO] 	* source vocab: 256 words
+[2019-11-20 20:49:12,771 INFO] 	* target vocab: 258 words
+[2019-11-20 20:49:12,771 INFO] Reading encoder and decoder embeddings from glove.6B.200d.txt
+[2019-11-20 20:49:17,878 INFO] 	Found 400000 total vectors in file
+[2019-11-20 20:49:17,878 INFO] After filtering to vectors in vocab:
+[2019-11-20 20:49:17,878 INFO] 	* enc: 254 match, 2 missing, (99.22%)
+[2019-11-20 20:49:17,878 INFO] 	* dec: 254 match, 4 missing, (98.45%)
+[2019-11-20 20:49:17,879 INFO] 
+Saving embedding as:
+	* enc: IntrinsicTasks/Task1_Seq/embeddings.enc.pt
+	* dec: IntrinsicTasks/Task1_Seq/embeddings.dec.pt
+[2019-11-20 20:49:17,905 INFO] 
+Done.
